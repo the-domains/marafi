@@ -2,6 +2,7 @@ name: Marafi
 favicon: null
 layout_spectrum: 0.31404566508717835
 typography_spectrum: 0.23639252339489758
+title: "Ahmad's Realm"
 cta:
   domain: null
   bucket: null
